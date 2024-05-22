@@ -1,0 +1,6 @@
+marcides car 2 HS 6
+volvo bus 1 20
+cat truck 10 5 3
+bmw car 5 SP 3
+ford bus 1 25
+cat truck 12 6 2
